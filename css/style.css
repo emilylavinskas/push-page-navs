@@ -66,6 +66,8 @@ h1 {
   font-family: Quicksand, sans-serif, sans-serif;
   text-transform: none;
   line-height: 1.5em;
+  padding-right: 1.5em;
+  padding-left: 1.5em;
 }
 
 .nav li {
